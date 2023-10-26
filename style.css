@@ -1,0 +1,33 @@
+h1{
+    color: aquamarine;
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-weight: bolder;
+    font-size: 41px;
+}
+h4{
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-weight: bold;
+    font-size: 30px;
+}
+#show_sketch{
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    float: right;
+}
+p{
+    color: rgb(240, 199, 36);
+
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight:bolder;
+    font-size: 18px;
+    padding: 10px;
+                                                
+}
+#clear_canvas{
+    font-size: 16px;
+    font-family: cursive;
+    font-weight: bold;
+
+}
